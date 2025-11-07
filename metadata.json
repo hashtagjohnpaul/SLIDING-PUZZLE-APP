@@ -1,0 +1,5 @@
+{
+  "name": "Sliding Puzzle Quest Generator",
+  "description": "Create and share custom sliding tile puzzles from any image URL. Solve the puzzle to reveal a secret message. Generate a unique link and QR code for your puzzle to challenge friends.",
+  "requestFramePermissions": []
+}
